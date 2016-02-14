@@ -1,0 +1,27 @@
+{
+    "name": "adipatikanjeng/admin-crud-generator",
+    "license": "MIT",
+    "description": "Laravel 5 Admin CRUD Generator",
+    "keywords": [
+        "laravel",
+        "crud",
+        "crud generator",
+        "laravel admin crud generator"
+    ],
+    "authors": [
+        {
+            "name": "Adipatikanjeng",
+            "email": "adipatikanjeng@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Adipatikanjeng\\AdminCrudGenerator\\": "src/"
+        }
+    }
+}
